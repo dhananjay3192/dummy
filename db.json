@@ -1,0 +1,64 @@
+{"Employees":[
+    {
+      "_id": "5f7d8abdcd4a76e647ed76ae",
+      "index": 0,
+      "guid": "fa04fddf-dfa4-4bdb-a760-9e052eeb273a",
+      "isActive": false,
+      "balance": "$3,322.44",
+      "picture": "http://placehold.it/32x32",
+      "age": 29,
+      "eyeColor": "green",
+      "name": "Aurelia Rasmussen",
+      "gender": "female",
+     "company": "RAMJOB",
+     "email": "aureliarasmussen@ramjob.com",
+     "phone": "+1 (973) 419-2842"
+},
+    {
+        "_id": "5f7d8abda4705672d619b50e",
+        "index": 1,
+        "guid": "72d14ed8-a82d-4a4b-961f-606f750829e1",
+        "isActive": true,
+        "balance": "$3,601.05",
+        "picture": "http://placehold.it/32x32",
+        "age": 20,
+        "eyeColor": "green",
+        "name": "Lorie Church",
+        "gender": "female",
+        "company": "KYAGURU",
+        "email": "loriechurch@kyaguru.com",
+        "phone": "+1 (980) 430-2744"
+    },
+    {
+        "_id": "5f7d8abd4c6003f986d5e5e6",
+        "index": 2,
+        "guid": "b9f589f1-7fce-45e6-a0a5-35f526d32919",
+        "isActive": true,
+        "balance": "$3,881.31",
+        "picture": "http://placehold.it/32x32",
+        "age": 36,
+        "eyeColor": "blue",
+        "name": "Wallace Owen",
+        "gender": "male",
+        "company": "NORALEX",
+        "email": "wallaceowen@noralex.com",
+        "phone": "+1 (827) 525-2414"
+    },
+    {
+        "_id": "5f7d8abdeb11bd58675a6141",
+        "index": 3,
+        "guid": "3768da8c-faa0-4a7a-b208-f09b856a6b36",
+        "isActive": false,
+        "balance": "$1,002.46",
+        "picture": "http://placehold.it/32x32",
+        "age": 31,
+        "eyeColor": "blue",
+        "name": "Jimenez Jones",
+        "gender": "male",
+        "company": "PLAYCE",
+        "email": "jimenezjones@playce.com",
+        "phone": "+1 (923) 515-3149"
+    }
+
+]
+}
